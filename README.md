@@ -41,8 +41,6 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my s
         </a>
       </td>
     </tr>
-
-    <!-- Frontend Development -->
     <tr>
       <td><strong>Frontend Development</strong></td>
       <td align="left">
@@ -57,8 +55,6 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my s
         </a>
       </td>
     </tr>
-
-    <!-- Backend Development -->
     <tr>
       <td><strong>Backend Development</strong></td>
       <td align="left">
@@ -70,8 +66,6 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my s
         </a>
       </td>
     </tr>
-
-    <!-- Databases -->
     <tr>
       <td><strong>Databases</strong></td>
       <td align="left">
@@ -80,8 +74,6 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my s
         </a>
       </td>
     </tr>
-
-    <!-- Data Science / Machine Learning -->
     <tr>
       <td><strong>Data Science / Machine Learning</strong></td>
       <td align="left">
@@ -99,8 +91,6 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my s
         </a>
       </td>
     </tr>
-
-    <!-- Tools and Design -->
     <tr>
       <td><strong>Tools and Design</strong></td>
       <td align="left">
