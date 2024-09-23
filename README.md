@@ -24,7 +24,8 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my s
       <th>Category</th>
       <th>Technologies</th>
     </tr>
-  </thead>
+ <center>
+ </thead>
   <tbody>
     <!-- Programming Languages -->
     <tr>
